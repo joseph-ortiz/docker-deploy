@@ -1,0 +1,9 @@
+{
+  "name": "docker-deploy",
+  "version": "1.0.0",
+  "dependencies": {
+    "faker": {
+      "version": "4.1.0"
+    }
+  }
+}
